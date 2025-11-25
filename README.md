@@ -34,7 +34,7 @@
 
 <div align="center">
 
-![Snake animation](https://raw.githubusercontent.com/HarmmerRay/HarmmerRay/output/github-contribution-grid-snake.svg)
+![Snake animation](https://raw.githubusercontent.com/HarmmerRay/HarmmerRay/gh-pages/output/github-contribution-grid-snake.svg)
 
 </div>
 
