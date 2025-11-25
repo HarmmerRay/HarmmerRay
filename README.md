@@ -1,40 +1,43 @@
-<!-- 顶部波浪 Banner -->
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:434343&height=180&text=Welcome!&fontColor=ffffff&fontSize=45&fontAlignY=35)
+<!-- 顶部 Banner：天蓝色渐变 -->
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:74c0fc,100:4dabf7&height=180&text=Welcome!&fontColor=ffffff&fontSize=45&fontAlignY=35)
 
 # 👋 Hi, I'm Zhao Yang  
-### 📌 Software Engineering Student | Developer  
-欢迎来到我的 GitHub 主页！  
-我专注于软件工程、全栈开发与 AI 技术探索。
+### 💼 Backend Engineer  
+欢迎来到我的 GitHub 主页！
 
 ---
 
 ## 🧭 About Me | 关于我
-- 🎓 Software Engineering undergraduate  
-- 💡 Interested in full-stack development, AI, and system design  
-- 🛠 Love writing clean, minimal code  
-- 🌱 Currently learning Android dev & model deployment  
+- 🔍 Focused on backend engineering  
+- 🏗 Passionate about system architecture  
+- 🤖 Exploring AI Native technologies  
 
-- 🎓 软件工程专业本科生  
-- 💡 喜欢全栈开发、AI 研究与系统架构  
-- 🛠 追求极简、整洁的编码风格  
-- 🌱 目前在学习 Android 开发与模型部署  
-
----
-
-## ✨ Tech Stack | 技术栈
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=python,flask,js,nodejs,androidstudio,java,react,mysql,keras,git,github&theme=light" />
-</p>
+- 🔍 专注后端开发  
+- 🏗 致力于系统架构领域研究  
+- 🤖 深入探索 AI Native 技术  
 
 ---
 
 ## 📊 GitHub Stats | GitHub 统计
 <div align="center">
 
-<!-- GitHub 统计卡片 -->
-<img src="https://github-readme-stats.vercel.app/api?username=你的用户名&show_icons=true&theme=graywhite" height="160"/>
+<img src="https://github-readme-stats.vercel.app/api?username=HarmmerRay&show_icons=true&theme=default" height="160"/>
 
-<!-- Most Used Languages -->
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=你的用户名&layout=compact&theme=graywhite" height="160"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HarmmerRay&layout=compact&theme=default" height="160"/>
 
 </div>
+
+---
+
+## 🐍 Contribution Snake | 贪吃蛇贡献图
+<img src="https://raw.githubusercontent.com/HarmmerRay/HarmmerRay/output/github-contribution-grid-snake.svg"/>
+
+---
+
+## 📫 Contact | 联系方式
+📧 **Email:** zhao131804@gmail.com
+
+---
+
+<!-- 底部 Banner：天蓝色渐变 -->
+![footer](https://capsule-render.vercel.app/api?type=waving&color=0:4dabf7,100:74c0fc&height=130&section=footer)
