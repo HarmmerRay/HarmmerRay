@@ -1,24 +1,22 @@
-<!-- 顶部 Banner：天蓝色渐变 -->
-
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:74c0fc,100:4dabf7&height=180&text=Welcome!&fontColor=ffffff&fontSize=45&fontAlignY=35)
 
 # 👋 Hi, I'm Zhao Yang
 
-### 💼 Backend Engineer （后端开发工程师）
+### 💼 Backend Engineer
 
-欢迎来到我的 GitHub 主页！
-
----
-
-## 🧭 About Me | 关于我
-
-- 🔍 Focused on backend engineering （专注后端开发）
-- 🏗 Passionate about system architecture （致力于系统架构领域研究）
-- 🤖 Exploring AI Native technologies （深入探索 AI Native 技术 ）
+Welcome to my Github Profile!
 
 ---
 
-## 📊 GitHub Stats | GitHub 统计
+## 🧭 About Me
+
+- 🔍 Focused on backend engineering 
+- 🏗 Passionate about system architecture 
+- 🤖 Exploring AI Native technologies 
+
+---
+
+## 📊 GitHub Stats
 
 <div align="center">
 
@@ -30,7 +28,7 @@
 
 ---
 
-## 🐍 Contribution Snake | 贪吃蛇贡献图
+## 🐍 Contribution Snake
 
 <div align="center">
 
@@ -40,7 +38,7 @@
 
 ---
 
-## 📫 Contact | 联系方式
+## 📫 Contact
 
 📧 **Email:** zhao131804@gmail.com
 
