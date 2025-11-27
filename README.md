@@ -18,13 +18,10 @@ Welcome to my Github Profile!
 
 ## 📊 GitHub Stats
 
-<div align="center">
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HarmmerRay)](https://github.com/anuraghazra/github-readme-stats)
 
-<img src="https://github-readme-stats.vercel.app/api?username=HarmmerRay&show_icons=true&theme=default&hide_border=true&bg_color=0D1117&title_color=4dabf7&icon_color=74c0fc&cache_seconds=1800" height="160"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HarmmerRay&layout=compact&theme=default&hide_border=true&bg_color=0D1117&title_color=4dabf7&cache_seconds=1800" height="160"/>
-
-</div>
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
 ---
 
