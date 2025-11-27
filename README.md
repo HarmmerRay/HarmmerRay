@@ -1,18 +1,20 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:74c0fc,100:4dabf7&height=180&text=Welcome!&fontColor=ffffff&fontSize=45&fontAlignY=35)
 
 # 👋 Hi, I'm Zhao Yang
-
-### 💼 Backend Engineer
-
-Welcome to my Github Profile!
-
----
-
+Welcome to my Github!
 ## 🧭 About Me
-
-- 🔍 Focused on backend engineering 
-- 🏗 Passionate about system architecture 
-- 🤖 Exploring AI Native technologies 
+<div align="center">
+  <table>
+    <tr>
+      <td>🔍 Focused on backend engineering</td>
+      <td>🏗 Passionate about system architecture</td>
+    </tr>
+    <tr>
+      <td>🤖 Exploring AI Native technologies</td>
+      <td>⚙️ Building beautiful fast reliable services</td>
+    </tr>
+  </table>
+</div>
 
 ---
 
