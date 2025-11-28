@@ -1,7 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:74c0fc,100:4dabf7&height=180&text=Welcome!&fontColor=ffffff&fontSize=45&fontAlignY=35)
 
 # 👋 Hi, I'm Zhao Yang
-Welcome to my Github!
+Welcome to my Github!  📧 **Email:** zhao131804@gmail.com
 ## 🧭 About Me
 <div align="center">
   <table>
@@ -19,24 +19,6 @@ Welcome to my Github!
 ---
 
 ## 📊 GitHub Stats
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HarmmerRay)
-
-<!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-76-blue)
-
-**🐱 My GitHub Data** 
-
-> 📦 ? Used in GitHub's Storage 
- > 
-> 🏆 1,012 Contributions in the Year 2025
- > 
-> 🚫 Not Opted to Hire
- > 
-> 📜 24 Public Repositories 
- > 
-> 🔑 0 Private Repositories 
- > 
 **I'm an Early 🐤** 
 
 ```text
@@ -94,11 +76,5 @@ Mac                      25 hrs 6 mins       ███████████�
 ![Snake animation](https://raw.githubusercontent.com/HarmmerRay/HarmmerRay/gh-pages/output/github-contribution-grid-snake.svg)
 
 </div>
-
----
-
-## 📫 Contact
-
-📧 **Email:** zhao131804@gmail.com
 
 ---
